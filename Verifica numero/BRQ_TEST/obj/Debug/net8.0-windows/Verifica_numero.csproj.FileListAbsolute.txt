@@ -1,0 +1,16 @@
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\bin\Debug\net8.0-windows\Verifica_numero.exe
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\bin\Debug\net8.0-windows\Verifica_numero.deps.json
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\bin\Debug\net8.0-windows\Verifica_numero.runtimeconfig.json
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\bin\Debug\net8.0-windows\Verifica_numero.dll
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\bin\Debug\net8.0-windows\Verifica_numero.pdb
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.Form1.resources
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\Verifica_numero.csproj.GenerateResource.cache
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\Verifica_numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\Verifica_numero.AssemblyInfoInputs.cache
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\Verifica_numero.AssemblyInfo.cs
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\Verifica_numero.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\Verifica_numero.dll
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\refint\Verifica_numero.dll
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\Verifica_numero.pdb
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\Verifica_numero.genruntimeconfig.cache
+C:\Users\vinicius.m.castro\source\repos\Verifica numero\BRQ_TEST\obj\Debug\net8.0-windows\ref\Verifica_numero.dll

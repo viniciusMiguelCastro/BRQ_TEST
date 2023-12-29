@@ -1,0 +1,16 @@
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\bin\Debug\net8.0-windows\BRQ_TEST.exe
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\bin\Debug\net8.0-windows\BRQ_TEST.deps.json
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\bin\Debug\net8.0-windows\BRQ_TEST.runtimeconfig.json
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\bin\Debug\net8.0-windows\BRQ_TEST.dll
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\bin\Debug\net8.0-windows\BRQ_TEST.pdb
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.Form1.resources
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.csproj.GenerateResource.cache
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.AssemblyInfoInputs.cache
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.AssemblyInfo.cs
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.dll
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\refint\BRQ_TEST.dll
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.pdb
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\BRQ_TEST.genruntimeconfig.cache
+C:\Users\vinicius.m.castro\source\repos\BRQ_TEST\BRQ_TEST\obj\Debug\net8.0-windows\ref\BRQ_TEST.dll

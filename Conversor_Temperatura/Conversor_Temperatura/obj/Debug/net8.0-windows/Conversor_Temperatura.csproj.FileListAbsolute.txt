@@ -1,0 +1,16 @@
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\net8.0-windows\Conversor_Temperatura.exe
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\net8.0-windows\Conversor_Temperatura.deps.json
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\net8.0-windows\Conversor_Temperatura.runtimeconfig.json
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\net8.0-windows\Conversor_Temperatura.dll
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\bin\Debug\net8.0-windows\Conversor_Temperatura.pdb
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\Conversor_Temperatura.Form1.resources
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\Conversor_Temperatura.csproj.GenerateResource.cache
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\Conversor_Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\Conversor_Temperatura.AssemblyInfoInputs.cache
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\Conversor_Temperatura.AssemblyInfo.cs
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\Conversor_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\Conversor_Temperatura.dll
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\refint\Conversor_Temperatura.dll
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\Conversor_Temperatura.pdb
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\Conversor_Temperatura.genruntimeconfig.cache
+C:\Users\vinicius.m.castro\source\repos\Conversor_Temperatura\Conversor_Temperatura\obj\Debug\net8.0-windows\ref\Conversor_Temperatura.dll

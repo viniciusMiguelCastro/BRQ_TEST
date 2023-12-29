@@ -1,0 +1,16 @@
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\bin\Debug\net8.0-windows\Calculo de idade.exe
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\bin\Debug\net8.0-windows\Calculo de idade.deps.json
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\bin\Debug\net8.0-windows\Calculo de idade.runtimeconfig.json
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\bin\Debug\net8.0-windows\Calculo de idade.dll
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\bin\Debug\net8.0-windows\Calculo de idade.pdb
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\Calculo_de_idade.Form1.resources
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\Calculo de idade.csproj.GenerateResource.cache
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\Calculo de idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\Calculo de idade.AssemblyInfoInputs.cache
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\Calculo de idade.AssemblyInfo.cs
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\Calculo de idade.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\Calculo de idade.dll
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\refint\Calculo de idade.dll
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\Calculo de idade.pdb
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\Calculo de idade.genruntimeconfig.cache
+C:\Users\vinicius.m.castro\source\repos\Calculo de idade\Calculo de idade\obj\Debug\net8.0-windows\ref\Calculo de idade.dll
